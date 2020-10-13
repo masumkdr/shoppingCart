@@ -1,0 +1,29 @@
+{
+"products":	[{
+		"name": "Polo Tshirt",
+		"image": "images/polo.jpg",
+		"size": "XL, L, M, S",
+		"color": "Red, Blue, Yellow",
+		"price": 1000,
+		"currency": "BDT",
+		"button": "Add To Cart"
+	},
+	{
+		"name": "Full Shirt",
+		"image": "images/shirt.jpeg",
+		"size": "XL, L, M",
+		"color": "White, Black, Blue",
+		"price": 3000,
+		"currency": "BDT",
+		"button": "Add To Cart"
+	},
+	{
+		"name": "Nike Shoes",
+		"image": "images/shoes.webp",
+		"size": "44,40,38",
+		"color": "Black, White",
+		"price": 5000,
+		"currency": "BDT",
+		"button": "Add To Cart"
+	}]
+}
