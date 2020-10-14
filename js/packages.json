@@ -9,8 +9,8 @@
 		"button": "Add To Cart"
 	},
 	{
-		"name": "Full Shirt",
-		"image": "images/shirt.jpeg",
+		"name": "T-Shirt",
+		"image": "images/polo.webp",
 		"size": "XL, L, M",
 		"color": "White, Black, Blue",
 		"price": 3000,
