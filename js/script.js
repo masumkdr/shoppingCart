@@ -47,7 +47,7 @@ function addToPackages(pack) {
                     <div class="card">
                     <div class="card-header card-title bg-info text-light text-uppercase py-3 mb-3">
                         <h4 id="itemname">${pack.name}</h4></div>
-                    <img class="card-img-top" src="${pack.image}" alt="Card image cap" height="150" width="30">
+                    <img class="card-img-top" src="${pack.image}" alt="Card image cap" height="300" width="30">
                     <div class="card-body">
                             <ul>
                                 <li>Size : ${pack.size}</li>
